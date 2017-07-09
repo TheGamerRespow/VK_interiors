@@ -20,4 +20,6 @@ http://imgur.com/a/UJ3PF
 
 https://forum.fivem.net/t/release-vk-main-useful-functions-0-1-0/29246/3
 
-**Download**
+**Add a new point**
+
+1. Just look at "config.lua" and understand how it's done, it's pretty easy.
